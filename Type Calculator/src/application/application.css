@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+	-fx-text-fill: #2D8839;
+	-fx-font: 50px "Microsoft YaHei";
+}
+
+.button {
+	-fx-background-color: #FFFFFF;
+	-fx-font: 35px "Microsoft YaHei";
+	-fx-text-fill: #e71515;
+	-fx-min-height: 25px;
+	-fx-min-width: 100px;
+}
+
